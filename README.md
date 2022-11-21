@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://lysitheadarkknight.github.io/HuddleLandingPage/)
+- Solution URL: (https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc/hub/single-price-grid-component-flexbox-grid-sass-dark-mode-js-FAdB6fbDxB)
+- Live Site URL: (https://lysitheadarkknight.github.io/SingleGridComponent/
 
 ## My process
 
